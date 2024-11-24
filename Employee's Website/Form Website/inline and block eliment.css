@@ -1,3 +1,19 @@
 h2{background-color: aqua;}
-p{background-color: yellow;}
-span{background-color: chartreuse;}
+p{background-color:white;}
+
+div{background-color: aqua;
+    display: flex;
+
+    align-items: center;
+} 
+.red{background-color: aqua;}
+.yellow{background-color: brown;}
+.pink{
+    background-color: blue;
+}
+#p1{color: chocolate;}
+#p2{color: cyan;}
+#p3{color: chartreuse;}
+.green{background-color:green;}
+.gray{background-color: gray;}
+.blue{background-color: crimson;}
